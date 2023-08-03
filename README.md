@@ -1,6 +1,6 @@
 ### Olá! 🖐️
 #
-<P>Meu nome é Guilherme Ferreira, sou estudante de Análise e Desenvolvimento de Sistemas. Sou novo no mundo Dev, mas um entusiasta em aprender cada vez mais dessa área. Com disposição para lidar com problemas e tendo aberto para encarar os novos desafios.</P>
+<P>Meu nome é Guilherme Ferreira, sou estudante de Análise e Desenvolvimento de Sistemas. Sou novo no mundo Dev, mas um entusiasta em aprender cada vez mais dessa área. Com disposição para lidar com problemas e sempre aberto para encarar os novos desafios.</P>
 
 ### 🌎<strong>"Torna-te aquilo que és."</strong>🧠
 <br>
